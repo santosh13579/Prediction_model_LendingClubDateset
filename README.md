@@ -4,13 +4,12 @@
   # 2. Data Set
   As the data size is large so I did not upload here. I used the  finanacial data provided by Lending Club of 2015. You can download this dataset from https://drive.google.com/drive/folders/1pf8P-omhEL7VZDI-LJMHP7h0aNuVRM71These
   # 3. File Descriptions
-  This problem is a binary classification as I have only two classes to predict
-  ETL Pipeline Preparation.ipynb: Notebook experiment for the ETL pipelines
-  ML Pipeline Preparation.ipynb: Notebook experiment for the machine learning pipelines
-  data/process_data.py: The ETL pipeline used to process data in preparation for model building.
-  models/train_classifier.py: The Machine Learning pipeline used to fit, tune, evaluate, and export the model to a Python pickle
-  app/templates/~.html: HTML pages for the web app.
-  run.py: Start the Python server for the web app and prepare visualizations.
+
+    
+    
+    Keyperformance_Ind.ipynb: Notebook experiment for analyzing the data set to identify the key points that affects the prediction model. 
+    Main_Model.ipynb: Notebook experiment for  step by step for building a machine learning algorith for the prediction of loan defaulters based on certain variables present in the dataset.
+
   
   # 4. Project Link
   Project Link: https://github.com/santosh13579/Prediction_model_LendingClubDateset
