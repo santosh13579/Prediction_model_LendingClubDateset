@@ -8,7 +8,8 @@
     
     
     Keyperformance_Ind.ipynb: Notebook experiment for analyzing the data set to identify the key points that affects the prediction model. 
-    Main_Model.ipynb: Notebook experiment for  step by step for building a machine learning algorith for the prediction of loan defaulters based on certain variables present in the dataset.
+    Main_Model.ipynb: Notebook experiment for  step by step for building a machine learning algorith for the prediction of loan defaulters 
+    based on certain variables present in the dataset.
 
   
   # 4. Project Link
